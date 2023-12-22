@@ -12,6 +12,8 @@ Sample Output:
 0
 1
 */
+// Dec 15, 2023.
+
 int third(int,int,int);
 int main()
 {
